@@ -1,0 +1,13 @@
+.container{
+    position: absolute;
+    display: flex;
+    left: 100px;
+}
+
+.array_bar {
+    margin: 0px 1px;
+    display: inline-block;
+    background-color: brown;
+    width: 4px;
+    font-size: 2px;
+}
